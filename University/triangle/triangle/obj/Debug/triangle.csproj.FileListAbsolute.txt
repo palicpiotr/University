@@ -1,0 +1,6 @@
+D:\Education\3 курс 5 семестр\Технологии программирования\Курсовой проект\ASSSK\trunk\triangle\triangle\bin\Debug\triangle.exe.config
+D:\Education\3 курс 5 семестр\Технологии программирования\Курсовой проект\ASSSK\trunk\triangle\triangle\bin\Debug\triangle.exe
+D:\Education\3 курс 5 семестр\Технологии программирования\Курсовой проект\ASSSK\trunk\triangle\triangle\bin\Debug\triangle.pdb
+D:\Education\3 курс 5 семестр\Технологии программирования\Курсовой проект\ASSSK\trunk\triangle\triangle\obj\Debug\triangle.csprojResolveAssemblyReference.cache
+D:\Education\3 курс 5 семестр\Технологии программирования\Курсовой проект\ASSSK\trunk\triangle\triangle\obj\Debug\triangle.exe
+D:\Education\3 курс 5 семестр\Технологии программирования\Курсовой проект\ASSSK\trunk\triangle\triangle\obj\Debug\triangle.pdb
